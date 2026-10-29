@@ -1,0 +1,8 @@
+{
+  "name": "bổ sung tạo theo mẫu Xây dựng KH giảng bài (V2)(pro)",
+  "description": "Ứng dụng AI tạo kế hoạch bài dạy, bài giảng từ tài liệu nguồn theo mẫu tệp tùy chỉnh (PDF, Word) và mẫu chuẩn học thuật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
